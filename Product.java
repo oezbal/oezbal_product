@@ -3,4 +3,8 @@ public class Product{
 	private float price;
 	private int anz;
 
+	public Product{
+		
+	}
+	
 }
