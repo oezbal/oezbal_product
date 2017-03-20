@@ -1,3 +1,3 @@
-public class Procuct{
+public class Product{
 
 }
